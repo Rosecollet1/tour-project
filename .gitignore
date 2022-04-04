@@ -1,0 +1,44 @@
+/Tour-Me/node_modules
+/Tour-Me/ormconfig.json
+/Tour-Me/.env
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/tour-me-frontend/node_modules
+/tour-me-frontend/.pnp
+/tour-me-frontend/.pnp.js
+
+# testing
+/tour-me-frontend/coverage
+
+# next.js
+/tour-me-frontend/.next/
+/tour-me-frontend/out/
+
+# production
+/tour-me-frontend/build/
+
+# misc
+/tour-me-frontend/.DS_Store
+/tour-me-frontend/*.pem
+
+# debug
+/tour-me-frontend/npm-debug.log*
+/tour-me-frontend/yarn-debug.log*
+/tour-me-frontend/yarn-error.log*
+/tour-me-frontend/.pnpm-debug.log*
+
+# local env files
+/tour-me-frontend/.env.local
+/tour-me-frontend/.env.development.local
+/tour-me-frontend/.env.test.local
+/tour-me-frontend/.env.production.local
+
+# vercel
+/tour-me-frontend/.vercel
+
+# typescript
+/tour-me-frontend/*.tsbuildinfo
